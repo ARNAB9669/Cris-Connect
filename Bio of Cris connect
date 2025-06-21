@@ -1,29 +1,62 @@
-                                                                              Cris-connect
-This is an AI power LAN network app. This helps in the moment of natural disaster. We will create router like towers that will be covering a specific area and we will connect the next router with the old router so it increases the range. So, by this we will create a local network where it will be possible to make the app run without internet and as routers are not connected via wires and they are solar powered it has very less chance of being down. And 
+Cris-Connect
+What is this:
+This is a project that will help during the time of any type of natural disasters like storms, floods etc… In this project we will provide an app that will run without internet and any cellular network present now like wifi, jio,airtel,BSNL,etc… So this is very reliable as internet and cellular data is mostly unavailable during heavy rain, storms, and electricity black-out etc. So our project also solves all that problem and can run on solar power as well. AsOur app runs on LAN. It will be super fast with minimum lag and have no dependency over the internet. We will have the same app but the app will run only on the selected area. So We will cover only 1 village as selector so while logging in to the app you have to select the area and the app will run only in that area. So each village will have their own server for their app. So we will add routers like solar powered towers and each tower will be connected wirelessly and they will have their own power supply and when electricity blackouts happen people will also be able to charge their phones via these towers in emergencies. So mail thing is we will cover a village with 1 LAN so it is like they have their own internet.(Same how VS code live server or live preview works). It will be like 1 hotspot for a whole area. And our app will be powered by Ai. Now let’s see what the AI will do. So it will monitor weather and give alerts to the user like 4 to 5 hours early before the natural disaster even occurs so the user will get enough time for preparing. And our app also have and SOS button that allows the user to get help immediately  like the app will  send a notification to all the nearby the devices with the live location and all contact of the user and also send the live location with need help message to the pre decided number and also make a call to to helpline center and our AI will also be able to hear everything on call if the AI sense any critical scenario it will also send the live location to hospital and make a call for ambulance. And our app will also provide a map of the local area. Where people will be able to drop pin on the map by the app with message that where what service is being donated or where what is available like:-
 
-this is some feature this project app will provide.
+Where  shelter is!
+Where the aid is being given!
+Where  the medical camp is!
+What  the problem in that area is!
+And also send live signals from the area that someone is in danger there.
+And also add some notes for anyone.
 
-1.See local map and drop pin and text about the location.
-2.So in danger time people will be see where the shelter is    where the aid is being given. Where is medical camp.
-3.An AI that will keep note of everything and warns the user about the natural disasters early via sending all the important notifications early.
-4.An SOS button will be provided for any danger when sos is clicked the app will send the live location and a need help massage to all connected mobiles and help team like police, relative, fire service, ambulance etc.
-5.As it will run on local network no internet will be needed and it will have no lag and be Superfast.
-6. We will modify the routers with own hardware and large antenna so it will cover a huge amount of land.
-7. It is possible to make mini tower like router that will cover like 1km or minimum 500m.
-8. This do not need any mobile or Cellular network
-9. this mini towers will be solar powered in day and battery in night.
-10. People wil be able to charge their phone from this towers.
+So this will be a community run app where people will help each other. 
 
-What it solves.
+Now here is the biggest positive side of this app. There will be a doctor section in the app. In that section all doctors will be registered and people will be able to call the doctor via video call in disaster time when they are stuck and  need help immediately. So here is what the doctor section will be providing:-
 
-First let’s see what the problem: First of al when storm and floods etc occurs we do not get internet, no connectivity etc. And for that help gets delayed.
+People will be able to see which doctor is available.
+And people will be able to send a request for a call to the doctor and the doctor will be notified and when the doctor is free he can call. 
+The app will also let the patient add a note for the doctor while requesting a call.
+ The app allows both audio and video calls.
+Even the patient can call for an ambulance manually from this section of the app.
 
-This is what we are solving :-
+So this will be a life saver for people as well.
+How this works:
+ So we will create a home server for an area. And we will cover the whole area via a number of towers(advance version of router). And here is the details of the towers:-
+
+Each tower will have their own solar panel and a set of batteries so it can run 24/7.
+Each tower is connected to its nearby towers creating a network LAN.
+Each tower will be connected wirelessly.
+Each tower will be a little elevated for floods.
+Each tower will allow the user to charge their phone.
+
+These were the details of the tower.
+
+Now the tower will allow the connected device to communicate with other connected device without needing any internet or cellular 
+Network.  And All facilities of an area like Police station and hospitals will be covered in the range of the tower and the app. And even nearby fire-service if available. 
+
+What the problem it solves:-
+
+First let's see what the problem is that we are solving.
+
+THE PROBLEM:-
+We live in INDIA. We have many states covering intense cold to intense heat. Many states are mostly covered with natural disasters most of the time of a year. If 1 state recovers, the other gets affected by this natural disaster. Our country faces most of the types of natural disasters starting from no rain to flood and while a storm or flood rises we can clearly see that the communication of that area gets mostly cut like the electricity, internet and mobile cellular network is also not available. So here we present our solution - - - -
+
+THE SOLUTION:-
+
 The power problem.
 The connectivity problem.
 The mobile network problem.
-No electricity problem.
-Using AI for accurate weather forecast.
-Something new and I no where being used in INDIA.
+One of the best uses of AI.
+It is a new solution and nowhere is being used in INDIA.
 
 
+The progress of this project- - -  
+
+The app UI is mostly done on Figam.
+The 3d model of the router(Tower) is ready.
+The research is still on.
+
+This was not for Samsung Solve for Tomorrow. I was doing this on my own but now I think it is also a great IDEA to present.
+
+So this is the project idea I 
+ propose
