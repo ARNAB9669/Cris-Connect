@@ -3,7 +3,7 @@ What is this:
 This is a project that will help during the time of any type of natural disasters like storms, floods etc… In this project we will provide an app that will run without internet and any cellular network present now like wifi, jio,airtel,BSNL,etc… So this is very reliable as internet and cellular data is mostly unavailable during heavy rain, storms, and electricity black-out etc. So our project also solves all that problem and can run on solar power as well. AsOur app runs on LAN. It will be super fast with minimum lag and have no dependency over the internet. We will have the same app but the app will run only on the selected area. So We will cover only 1 village as selector so while logging in to the app you have to select the area and the app will run only in that area. So each village will have their own server for their app. So we will add routers like solar powered towers and each tower will be connected wirelessly and they will have their own power supply and when electricity blackouts happen people will also be able to charge their phones via these towers in emergencies. So mail thing is we will cover a village with 1 LAN so it is like they have their own internet.(Same how VS code live server or live preview works). It will be like 1 hotspot for a whole area. And our app will be powered by Ai. Now let’s see what the AI will do. So it will monitor weather and give alerts to the user like 4 to 5 hours early before the natural disaster even occurs so the user will get enough time for preparing. And our app also have and SOS button that allows the user to get help immediately  like the app will  send a notification to all the nearby the devices with the live location and all contact of the user and also send the live location with need help message to the pre decided number and also make a call to to helpline center and our AI will also be able to hear everything on call if the AI sense any critical scenario it will also send the live location to hospital and make a call for ambulance. And our app will also provide a map of the local area. Where people will be able to drop pin on the map by the app with message that where what service is being donated or where what is available like:-
 
 Where  shelter is!
-Where the aid is being given!
+Where the aid is being given! 
 Where  the medical camp is!
 What  the problem in that area is!
 And also send live signals from the area that someone is in danger there.
@@ -50,13 +50,3 @@ One of the best uses of AI.
 It is a new solution and nowhere is being used in INDIA.
 
 
-The progress of this project- - -  
-
-The app UI is mostly done on Figam.
-The 3d model of the router(Tower) is ready.
-The research is still on.
-
-This was not for Samsung Solve for Tomorrow. I was doing this on my own but now I think it is also a great IDEA to present.
-
-So this is the project idea I 
- propose
