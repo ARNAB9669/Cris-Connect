@@ -1,0 +1,437 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+*::selection {
+    background-color: orangered;
+    color: yellow;
+}
+
+body {
+    background-color: #d4cfcf;
+}
+
+.tab {
+    background-color: white;
+    padding: 20px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.log {
+    aspect-ratio: 4/4;
+    width: 8%;
+    padding-left: 60px;
+    display: flex;
+    flex-direction: row;
+}
+
+.text {
+    font-size: 30px;
+    color: #020234;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    font-weight: 900;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-right: 60px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fuck_in {
+    background-color: #6362f1;
+    color: white;
+    padding: 10px 22px;
+    border-radius: 30px;
+    border: 2px solid #1414c9;
+    font-style: bold;
+    font-size: 20px;
+}
+
+.fuck_in:hover {
+    background-color: #4e4df1;
+    border: 2px solid #4e4df1;
+}
+
+.fuck_up {
+    color: #6362f1;
+    padding: 8px 10px;
+    border-radius: 50px;
+    border: 6px solid #6362f1;
+    font-size: 1rem;
+    font-style: bold;
+    font-size: 20px;
+}
+
+.fuck_up:hover {
+    background-color: #6262f12f;
+    color: #0000e6;
+
+}
+
+footer {
+    padding: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-wrap: wrap;
+}
+
+
+
+
+.pic {
+
+    width: 80vw;
+    border: 5px solid #6362f1;
+    margin: auto;
+    border-radius: 10px;
+    background: linear-gradient(to right, #070ae5, #3737ab, #b60ed0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.pic_heading {
+    font-size: 35px;
+    text-align: center;
+    color: transparent;
+    text-shadow: 0 0 10px #000;
+}
+
+.pic_sub_heading {
+    color: transparent;
+    text-shadow: 0 0 10px gray;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.img:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+    filter: blur(0px) !important;
+
+}
+
+.pic:hover {
+    .pic_heading {
+        color: rgb(182, 170, 170)
+    }
+
+    .pic_sub_heading {
+        color: gray
+    }
+
+    .img {
+        filter: blur(5px);
+    }
+}
+
+hr {
+    width: 50vw;
+    margin: auto;
+}
+
+.img {
+    aspect-ratio: 3/3;
+    width: 300px;
+    border: 5px solid white;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+
+.conatiner {
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.sex {
+    text-align: center;
+    color: rgb(28, 4, 72);
+    font-size: 30px;
+    position: relative;
+    top: 50px;
+    margin-bottom: 30px;
+}
+
+.card {
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+
+.set_1 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.set_2 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+    box-shadow: 0 0 50px 10px gray;
+}
+
+.card {
+    padding: 20px;
+    color: gray
+}
+
+.FH {
+    text-align: center;
+
+}
+
+p {
+    padding: 20px;
+}
+
+.fuck_1 {
+    background-color: rgba(112, 142, 211, 0.266)
+}
+
+.fuck_1:hover {
+    .FH1 {
+        color: blue;
+    }
+
+    .FB1 {
+        color: rgb(3, 3, 39);
+    }
+}
+
+.fuck_2 {
+    background-color: rgba(124, 217, 130, 0.266);
+}
+
+.fuck_2:hover {
+    .FH2 {
+        color: green;
+    }
+
+    .FB2 {
+        color: rgb(1, 52, 1);
+    }
+}
+
+.fuck_3 {
+    background-color: rgba(138, 103, 221, 0.266);
+    padding: 8px !important;
+}
+
+.FB3 {
+    font-size: 15px;
+
+}
+
+.fuck_3:hover {
+    .FH3 {
+        color: purple;
+    }
+
+    .FB3 {
+        color: rgb(43, 2, 43);
+
+    }
+
+}
+
+.fuck_4 {
+    background-color: rgba(233, 233, 124, 0.266);
+}
+
+.FB5 {
+    font-size: 15px;
+
+}
+
+.fuck_4:hover {
+    .FH4 {
+        color: rgba(224, 224, 62, 0.752);
+    }
+
+    .FB4 {
+        color: rgba(148, 148, 17, 0.875);
+    }
+}
+
+.fuck_5 {
+    background-color: rgba(227, 101, 131, 0.266);
+}
+
+.fuck_5:hover {
+    .FH5 {
+        color: red;
+    }
+
+    .FB5 {
+        color: red;
+    }
+}
+
+.fuck_6 {
+    background-color: rgba(146, 172, 223, 0.266);
+}
+
+@media only screen and (max-width: 767px) {
+
+    body {
+        background-color: lightblue;
+    }
+
+    footer {
+        font-size: 5px;
+    }
+
+    .tab {
+        background-color: rgb(245, 241, 241);
+    }
+
+    .text {
+        font-size: 24px;
+        /* Adjust text size for mobile */
+    }
+     .logo {
+        padding-left: 20px; /* Adjust as needed */
+    }
+
+    .log {
+        width: 15%; /* Adjust logo size for mobile */
+        padding-left: 0;
+    }
+}
+
+.hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 4px;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.hamburger div {
+  width: 25px;
+  height: 3px;
+  background-color: #020234;
+}
+
+/* Show hamburger on small screens */
+@media screen and (max-width: 768px) {
+  .hamburger {
+    display: flex;
+  }
+
+  .navigation ul {
+    display: none;
+    flex-direction: column;
+    background-color: white;
+    padding: 10px;
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    box-shadow: 0 0 10px gray;
+    border-radius: 10px;
+  }
+
+  .navigation ul.show {
+    display: flex;
+  }
+}
+/* Floating Login/Signup Modal Styles */
+.float_box {
+  position: fixed;
+  top: 100px;
+  right: 30px;
+  background-color: #ffffff;
+  border: 2px solid #6362f1;
+  border-radius: 10px;
+  padding: 20px;
+  z-index: 1000;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  width: 300px;
+  font-family: 'Inter', sans-serif;
+}
+
+.float_box h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: #020234;
+}
+
+.float_box input {
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.float_box button {
+  background-color: #6362f1;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.float_box button:hover {
+  background-color: #4e4df1;
+}

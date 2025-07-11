@@ -1,0 +1,29 @@
+@media (max-width: 600px) {
+    * {
+        padding: 0;
+        margin: 0;
+    }
+
+    body {
+        background-color: #bab7b7;
+    }
+
+    .tab {
+        background-color: white;
+    }
+
+    .logo {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+    .log {
+        aspect-ratio: 4/4;
+        width: 50px;
+        padding-top: 3px;
+        padding-left: 10px;
+        display: flex;
+        flex-direction: row;
+    }
+
+}
